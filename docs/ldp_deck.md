@@ -161,6 +161,44 @@ img[alt~="center"] {
 
 ---
 
+## Testimonials :sunglasses:
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:480 center](rajani.png)
+
+---
+
+## Testimonials :sunglasses:
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:480 center](kp.png)
+
+---
+## Testimonials :sunglasses:
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:480 center](walloffame.jpeg)
+
+---
+
 ## Thank you :pray:
 
 <style>
