@@ -170,7 +170,7 @@ img[alt~="center"] {
 }
 </style>
 
-![w:480 center](rajani.png)
+![w:900 center](rajani.png)
 
 ---
 
@@ -183,7 +183,33 @@ img[alt~="center"] {
 }
 </style>
 
-![w:480 center](kp.png)
+![w:900 center](kp.png)
+
+---
+
+## Testimonials :sunglasses:
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:900 center](suvodip.png)
+
+---
+
+## Testimonials :sunglasses:
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![w:900 center](aditya.png)
 
 ---
 ## Testimonials :sunglasses:
